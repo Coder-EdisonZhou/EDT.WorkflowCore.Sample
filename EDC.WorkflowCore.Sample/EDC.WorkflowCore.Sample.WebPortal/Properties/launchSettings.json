@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "EDC.WorkflowCore.Sample.WebPortal": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/values",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
